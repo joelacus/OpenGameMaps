@@ -4,14 +4,14 @@
 	"accent_colour": "#28a745",
 	"theme_colour": "#172319",
 	"theme_text_colour": "#ffffff",
-	"logo_url": "profiles/sons_of_the_forest/sons_of_the_forest_logo.png",
+	"logo_url": "https://raw.githubusercontent.com/joelacus/OpenGameMaps/refs/heads/main/profiles/sons_of_the_forest/sons_of_the_forest_logo.png",
 	"maps": [
 		{
 			"name": "Main",
 			"background_colour": "#9eb5d5",
-			"markers_url": "profiles/sons_of_the_forest/map_0/ogm_sons_of_the_forest_map_0_markers.json",
-			"routes_url": "profiles/sons_of_the_forest/map_0/ogm_sons_of_the_forest_map_0_routes.json",
-			"tiles_url": "profiles/sons_of_the_forest/map_0/tiles/{z}/{x}/{y}.jpg",
+			"markers_url": "https://raw.githubusercontent.com/joelacus/OpenGameMaps/refs/heads/main/profiles/sons_of_the_forest/map_0/ogm_sons_of_the_forest_map_0_markers.json",
+			"routes_url": "https://raw.githubusercontent.com/joelacus/OpenGameMaps/refs/heads/main/profiles/sons_of_the_forest/map_0/ogm_sons_of_the_forest_map_0_routes.json",
+			"tiles_url": "https://raw.githubusercontent.com/joelacus/OpenGameMaps/refs/heads/main/profiles/sons_of_the_forest/map_0/tiles/{z}/{x}/{y}.jpg",
 			"tile_size": 256,
 			"min_zoom": 9,
 			"max_zoom": 16,
@@ -24,7 +24,7 @@
 			]
 		}
 	],
-	"icons_url": "profiles/sons_of_the_forest/map_0/glyphs.svg",
+	"icons_url": "https://raw.githubusercontent.com/joelacus/OpenGameMaps/refs/heads/main/profiles/sons_of_the_forest/map_0/glyphs.svg",
 	"icon_font_family": "sons-of-the-forest-icons",
 	"category_colours": {
 		"8485": { "colour": "#8bc34a", "name": "Plant" },
